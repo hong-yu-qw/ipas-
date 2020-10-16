@@ -1,12 +1,12 @@
 # ipas-onfidentiality (機密性)
 確保資料傳遞與儲存的私密性。
-‧避免未經授權的使用者有意或無意的揭露資料內涵。
+‧避免(未經授權)的使用者有意或無意的揭露資料內涵。
 
 # Integrity (完整性)
 ‧Prevent modification of data.
 ‧避免非經授權的使用者或處理程序篡改資料。
 ‧所使用的文件經傳送或儲存過程中必需證明其內容並
-未遭到竄改或偽造才能稱為完整性。
+(未遭到竄改或偽造)才能稱為完整性。
 
 # Availability (可用性)
 ‧Ensure reliable timely access to data.
